@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-A simple Rock Paper Scissors game for the purpose of learning C#.
+A simple Rock Paper Scissors game I made for the purpose of learning C#.
